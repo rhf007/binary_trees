@@ -197,3 +197,20 @@ Contrasting with depth-first order is breadth-first order, which always attempts
 
 ```Depth-first VS. Breadth-first```
 
+## Common Applocations
+
+Because I know very well that I'll wake up in the middle of the night wondering what they're used for.
+
+* **Search algorithms:** Binary search algorithms use the structure of binary trees to efficiently search for a specific element. The search can be performed in *O(log n)* time complexity, where *n* is the number of nodes in the tree.
+
+* **Sorting algorithms:** Binary trees can be used to implement efficient sorting algorithms, such as binary search tree sort and heap sort.
+
+* **Database systems:** Binary trees can be used to store data in a database system, with each node representing a record. This allows for efficient search operations and enables the database system to handle large amounts of data.
+
+* **File systems:** Binary trees can be used to implement file systems, where each node represents a directory or file. This allows for efficient navigation and searching of the file system.
+
+* **Compression algorithms:** Binary trees can be used to implement Huffman coding, a compression algorithm that assigns variable-length codes to characters based on their frequency of occurrence in the input data.
+
+* **Decision trees:** Binary trees can be used to implement decision trees, a type of machine learning algorithm used for classification and regression analysis.
+
+* **Game AI:** Binary trees can be used to implement game AI, where each node represents a possible move in the game. The AI algorithm can search the tree to find the best possible move.
